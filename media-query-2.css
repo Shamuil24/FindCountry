@@ -1,0 +1,53 @@
+@media only screen and (max-width: 414px) {
+
+    h2 {
+        font-size: 20px;
+    }
+
+    .previous-page {
+        display: flex;
+    }
+
+    .country-container-info {
+        display: flex;
+        width: 85%;
+        flex-direction: column;
+    }
+
+    .img-container {
+        align-self: center;
+        margin: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .mem-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .card {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .info-container {
+        display: flex;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .h2-container {
+        margin-bottom: 50px;
+    }
+
+    .p-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .border-country {
+        margin-top: 50px;
+    }
+}
